@@ -1,0 +1,2 @@
+# smuhistudentportal
+GitHub Pages
