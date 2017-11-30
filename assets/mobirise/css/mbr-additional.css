@@ -2605,7 +2605,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-qCsagb83zM .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qCsagb83zM a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2624,7 +2624,10 @@ body {
   text-align: center;
 }
 .cid-qCsagb83zM H2 {
-  color: #ffffff;
+  color: #7f1933;
+}
+.cid-qCsagb83zM LABEL {
+  color: #7f1933;
 }
 .cid-qCs1v3Qy1T .navbar {
   padding: .5rem 0;

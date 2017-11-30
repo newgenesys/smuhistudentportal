@@ -1435,7 +1435,7 @@
               "margin-bottom": "2rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#ffffff"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
@@ -1454,7 +1454,10 @@
               "text-align": "center"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#7f1933"
+            },
+            "LABEL": {
+              "color": "#7f1933"
             }
           },
           "_name": "form1",
